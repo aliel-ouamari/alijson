@@ -9825,7 +9825,7 @@
 		]
 	],
 	"objects" : {
-		"Regio" : {
+		"Bekken" : {
 			"type" : "GeometryCollection",
 			"geometries" : [
 				{
@@ -9888,8 +9888,8 @@
 					],
 					"properties" : {
 						"ID" : "1",
-						"Cd Regio" : "3650",
-						"Nm Regio" : "Regio Centrum-Oost            ",
+						"Bekken Cd" : "3650",
+						"Bekken Oms" : "Regio Centrum-Oost            ",
 						"Bekkenverantwoordelijke" : "Inge De Craen"
 					}
 				},
@@ -9911,8 +9911,8 @@
 					],
 					"properties" : {
 						"ID" : "2",
-						"Cd Regio" : "3630",
-						"Nm Regio" : "Regio Centrum-West            ",
+						"Bekken Cd" : "3630",
+						"Bekken Oms" : "Regio Centrum-West            ",
 						"Bekkenverantwoordelijke" : "Frank Van Ginderachter"
 					}
 				},
@@ -9929,8 +9929,8 @@
 					],
 					"properties" : {
 						"ID" : "3",
-						"Cd Regio" : "3670",
-						"Nm Regio" : "Regio Oost                    ",
+						"Bekken Cd" : "3670",
+						"Bekken Oms" : "Regio Oost                    ",
 						"Bekkenverantwoordelijke" : "Frans Diels"
 					}
 				},
@@ -9962,8 +9962,8 @@
 					],
 					"properties" : {
 						"ID" : "4",
-						"Cd Regio" : "3610",
-						"Nm Regio" : "Regio West                    ",
+						"Bekken Cd" : "3610",
+						"Bekken Oms" : "Regio West                    ",
 						"Bekkenverantwoordelijke" : "Sarah Govaert"
 					}
 				}
